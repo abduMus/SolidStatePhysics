@@ -1,0 +1,6 @@
+#!/bin/bash
+
+jupyter contrib nbextension install --user
+jupyter nbextension enable init_cell/main
+jupyter trust Periodic_Potential_Band_Diagram.ipynb
+

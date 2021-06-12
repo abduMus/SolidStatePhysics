@@ -1,0 +1,5 @@
+numpy
+ipywidgets
+matplotlib
+IPython
+jupyter-contrib-nbextensions
